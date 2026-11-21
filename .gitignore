@@ -1,0 +1,20 @@
+# Python virtual environment
+.venv/
+
+# Dataset
+PlantVillage_Images/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Trained model files
+*.keras
+*.h5
+*.npy
+
+# Local environment
+.env
+
+# Temporary files
+*.tmp
